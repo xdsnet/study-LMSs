@@ -13,7 +13,7 @@
 * [openEdx](https://open.edx.org/) ,[openEdx的docker部署相关](https://docs.tutor.overhang.io/install.html)
 
 ### 附加补充相关技术
-* [Kaltura]（https://github.com/kaltura） ,媒体服务管理
+* [Kaltura](https://github.com/kaltura) ,媒体服务管理
 
 ### 其他学习平台相关技术研究组织
 * [ADL](http://adlnet.gov) ,[ADL-AICC](https://github.com/ADL-AICC/AICC-Document-Archive)
