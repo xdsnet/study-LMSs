@@ -32,6 +32,7 @@
 * [olat](https://olat.org/),[olat on github](https://github.com/olatsystems/OpenOLAT)
 * [OpenOLAT](https://github.com/OpenOLAT/OpenOLAT)
 * [atutor](https://atutor.ca/)
+* [slate](https://github.com/SlateFoundation/slate)
 
 ### 其他学习平台相关技术研究组织
 * [ADL](http://adlnet.gov) ,[ADL-AICC](https://github.com/ADL-AICC/AICC-Document-Archive)
